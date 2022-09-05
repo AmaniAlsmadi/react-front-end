@@ -1,10 +1,12 @@
 
-import './App.css';
+//import react from 'react';
+import Person from './component/person';
+
 
 function App() {
   return (
-    <div className="App">
-
+    <div>
+      <Person/>
     </div>
   );
 }
